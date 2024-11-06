@@ -1,0 +1,14 @@
+#nav-bar {
+    position: fixed;
+    top: 0px;
+  }
+  
+  @media (max-width:300px){
+        #footer{color:green;}
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column; 
+    row-gap: 10px;
+  }
